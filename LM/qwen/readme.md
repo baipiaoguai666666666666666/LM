@@ -21,3 +21,4 @@ python -m vllm.entrypoints.openai.api_server \
 
 3.出现下面内容代表成功
 Uvicorn running on http://0.0.0.0:8866
+***********************
